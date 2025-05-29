@@ -10,7 +10,7 @@ function subtrai(vitorias, derrotas){
     return subtracao
 }
 
-if(saldoDeVitorias<10  ){nivelEncontrado = nivel[0]} 
+if(saldoDeVitorias<10){nivelEncontrado = nivel[0]} 
     else if((saldoDeVitorias>=11) && (saldoDeVitorias<=20)){nivelEncontrado = nivel[1]}
     else if((saldoDeVitorias>=21) && (saldoDeVitorias<=50)){nivelEncontrado = nivel[2]}
     else if((saldoDeVitorias>=51) && (saldoDeVitorias<=80)){nivelEncontrado = nivel[3]}
